@@ -1,1 +1,1 @@
-# Algoritmo-SJF
+# Algoritmo Shortest Job First (SJF)
