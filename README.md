@@ -6,4 +6,4 @@ O projeto "Aplicações através de algoritmos" foi apresentado ao Professor Ot�
 ## Desenvolvedores
 * [Guilherme Martins](https://github.com/gui-mrtns)
 * [João Victor Monteiro](https://github.com/jvsadan)
-* [Felipe de Souza Dutra]()
+* [Felipe de Souza Dutra](https://github.com/felipesouzadutra)
