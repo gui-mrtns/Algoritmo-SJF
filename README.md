@@ -1,11 +1,8 @@
 # Algoritmo Shortest Job First (SJF)
-O código busca implementar o algoritmo de escalonamento de processos Shortest Job First (SJF) na linguagem C.
+Este projeto busca implementar o algoritmo de escalonamento de processos Shortest Job First (SJF) na linguagem C. Realizou-se o projeto "Aplicações através de algoritmos" no segundo semestre de 2021 como parte da avaliação da disciplina de "Sistemas Operacionais" do curso de Engenharia de Computação da Universidade Federal de Itajubá (UNIFEI - _campus_ Itajubá).
 
-O projeto "Aplicações através de algoritmos" foi apresentado ao Professor Otávio de Souza Martins Gomes na disciplina de Sistemas Operacionais (ECOS01) do curso de graduação em Engenharia de Computação da Universidade Federal de Itajubá (UNIFEI).
-
-## Demonstração do código
-Vídeo da apresentação do projeto no YouTube: [link](https://www.youtube.com/watch?v=gn4uBFNpCzA)
-
+## Demonstração do projeto
+* Vídeo da apresentação do projeto no YouTube: [SJF - Algoritmo de escalonamento C](https://www.youtube.com/watch?v=gn4uBFNpCzA)
 
 ## Desenvolvedores
 * [Guilherme Martins](https://github.com/gui-mrtns)
